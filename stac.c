@@ -29,3 +29,8 @@ void disp_stac(){
   }
   printf( "\n");
  }
+output :
+12345
+123
+
+  
